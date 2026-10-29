@@ -1,0 +1,22 @@
+
+skill,domain,onet_related_skill,skill_type
+Python,Technology,Programming,technical
+SQL,Technology,Programming,technical
+JavaScript,Technology,Programming,technical
+Machine Learning,Technology,Programming,technical
+Data Analysis,Data,Analyzing Data,analytical
+Excel,Business,Analyzing Data,analytical
+Accounting,Business,Mathematics,professional
+Financial Analysis,Business,Analyzing Data,professional
+Budgeting,Business,Mathematics,professional
+Patient Care,Healthcare,Service Orientation,professional
+Clinical Assessment,Healthcare,Critical Thinking,professional
+Medical Terminology,Healthcare,Reading Comprehension,professional
+Legal Research,Law,Reading Comprehension,professional
+Legal Writing,Law,Writing,professional
+Policy Analysis,Law,Critical Thinking,professional
+Lesson Planning,Education,Learning Strategies,professional
+Curriculum Development,Education,Learning Strategies,professional
+Communication,General,Speaking,general
+Critical Thinking,General,Critical Thinking,general
+Writing,General,Writing,general

@@ -1,0 +1,38 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# Node.js dependencies
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Frontend build output
+client/dist/
+client/build/
+
+# Python virtual environments
+.venv/
+venv/
+ml-service/.venv/
+ml-service/venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Logs
+*.log
+npm-debug.log*
+
+# IDE and operating system
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Uploaded private files and local databases
+uploads/
+*.sqlite3
