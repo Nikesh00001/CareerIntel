@@ -28,7 +28,7 @@ app.use(helmet());
 
 app.use(
   cors({
-    origin: process.env.CLIENT_URL || "http://localhost:5173","https://nikesh-career-intel.vercel.app/",
+    origin: [process.env.CLIENT_URL || "http://localhost:5173", "https://nikesh-career-intel.vercel.app/"],
     methods: ["GET", "POST", "PATCH"],
     allowedHeaders: ["Content-Type", "Authorization"],
   })
